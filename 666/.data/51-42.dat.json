@@ -1,0 +1,95 @@
+{
+    "baselines": [
+        {
+            "blob": "Qklrnr5VuJZCTdH9vkrYeEJSOS2+POgjQlaaIr46efhCWwGbvjE8dg==",
+            "detector": "H2"
+        },
+        {
+            "blob": "Qklrnr0e+WVCTdH9vN8oAEJSOS29HJrDQlaaIr0Y+mVCWwGbu/YKjQ==",
+            "detector": "L1"
+        },
+        {
+            "blob": "Qklrnj47arlCTdH9Pj7eq0JSOS0+I3+6QlaaIj6XEWtCWwGbPo8WaQ==",
+            "detector": "AX"
+        },
+        {
+            "blob": "Qklrnr2tHpRCTdH9vO73CkJSOS28r91YQlaaIr2we8JCWwGbOzRKNA==",
+            "detector": "L2"
+        },
+        {
+            "blob": "Qklrnr76KNVCTdH9vuLseUJSOS2+8suhQlaaIr7DCANCWwGbvqCBSg==",
+            "detector": "H1"
+        },
+        {
+            "blob": "QklrnjofflpCTdH9Okdd8EJSOS06i46PQlaaIjmffllCWwGbOrNuJQ==",
+            "detector": "CDD"
+        }
+    ],
+    "commit": "a05504eed1f0200b69ca58ef7fd22323b9490381",
+    "encoding": "base64",
+    "format": ">ff",
+    "signals": [
+        {
+            "blob": "QbKNaz6P6t9BuyooPmTZu0HDxhw+JkFgQcxSXz4TmGNB1PnSPcWz8Q==",
+            "detector": "H2",
+            "isotope": "Ar41"
+        },
+        {
+            "blob": "QbKNaz6Z7tdBuyooPnceyEHDxhw+cUrgQcxSXz5t++FB1PnSPlodNg==",
+            "detector": "L1",
+            "isotope": "Ar38"
+        },
+        {
+            "blob": "QbKNa0GYQZlBuyooQZiGV0HDxhxBl/qPQcxSX0GX6I5B1PnSQZeMmA==",
+            "detector": "AX",
+            "isotope": "Ar39"
+        },
+        {
+            "blob": "QbKNaz297mBBuyoou7M5rUHDxhy9Mnu9QcxSXzrbuhlB1PnSPNHOpQ==",
+            "detector": "L2",
+            "isotope": "Ar37"
+        },
+        {
+            "blob": "QbKNa0VWhRxBuyooRVZsXkHDxhxFVmziQcxSX0VWUZpB1PnSRVY8Vg==",
+            "detector": "H1",
+            "isotope": "Ar40"
+        },
+        {
+            "blob": "QbKNazym+FNBuyooPKR6WkHDxhw8vWYcQcxSXzzBIxNB1PnSPKR6Wg==",
+            "detector": "CDD",
+            "isotope": "Ar36"
+        }
+    ],
+    "sniffs": [
+        {
+            "blob": "P4q/skCR9F5ACbc1QLYAmUBOAvNAcEgdQIkrskAX9gI=",
+            "detector": "H2",
+            "isotope": "Ar41"
+        },
+        {
+            "blob": "P4q/sj9ObHlACbc1P5fue0BOAvM/dzInQIkrsj832Z4=",
+            "detector": "L1",
+            "isotope": "Ar38"
+        },
+        {
+            "blob": "P4q/skEWrVdACbc1QMjwuUBOAvNAQ/8hQIkrsj/+As8=",
+            "detector": "AX",
+            "isotope": "Ar39"
+        },
+        {
+            "blob": "P4q/sj/1aaJACbc1P2yuZkBOAvM+iBB2QIkrsj3WaD0=",
+            "detector": "L2",
+            "isotope": "Ar37"
+        },
+        {
+            "blob": "P4q/skKbqztACbc1Qv++b0BOAvNC9om4QIkrskLu+wA=",
+            "detector": "H1",
+            "isotope": "Ar40"
+        },
+        {
+            "blob": "P4q/sj79HENACbc1PZwRU0BOAvM9JljjQIkrsjzpArE=",
+            "detector": "CDD",
+            "isotope": "Ar36"
+        }
+    ]
+}
